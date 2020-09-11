@@ -26,7 +26,8 @@ def salaire():
             total+=(nb_heures-PALIER_HEURES_2)*tx_hor*MAJORATION
     return(total)
         
-salaire()
+ salaire()
+
 """appel de la fonction salaire"""
         
 #Exercice2
@@ -190,6 +191,7 @@ def voiture():
     print(cout_tot)
     
 voiture()
+""" test de la fonction voiture()"""
 
 #Exercice 7
 
